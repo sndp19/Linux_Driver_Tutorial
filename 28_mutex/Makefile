@@ -1,7 +1,8 @@
-obj-m += bmp280.o
- 
+obj-m += mymutex.o
+
 all:
 	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
- 
+
 clean:
 	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean
+	
