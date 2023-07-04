@@ -50,6 +50,7 @@ In this repo you can find examples for:
 26. Device Tree SPI Driver (IIO compatible driver for Atmega SPI ADC)
 27. Misc Device
 28. Mutex for exclusive access to shared resource
+29. Completions for synchronisation
 
 
 ## More Information
