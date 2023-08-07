@@ -1,1 +1,0 @@
-cmd_/home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.mod := { echo  /home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.o;  echo; } > /home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.mod

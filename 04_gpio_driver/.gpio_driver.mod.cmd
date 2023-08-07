@@ -1,1 +1,0 @@
-cmd_/home/pi/Programming/Linux_Driver_Tutorial/04_gpio_driver/gpio_driver.mod := { echo  /home/pi/Programming/Linux_Driver_Tutorial/04_gpio_driver/gpio_driver.o;  echo; } > /home/pi/Programming/Linux_Driver_Tutorial/04_gpio_driver/gpio_driver.mod
