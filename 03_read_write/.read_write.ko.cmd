@@ -1,0 +1,1 @@
+cmd_/home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.ko /home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.o /home/pi/Programming/Linux_Driver_Tutorial/03_read_write/read_write.mod.o;  true
