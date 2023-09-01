@@ -52,6 +52,7 @@ In this repo you can find examples for:
 28. Mutex for exclusive access to shared resource
 29. Completions for synchronisation
 30. Direct Memory Access (DMA) memcopy example
+31. Accessing files form a Linux Driver
 
 
 ## More Information
