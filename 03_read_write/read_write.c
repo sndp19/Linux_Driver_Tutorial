@@ -94,7 +94,7 @@ static int __init ModuleInit(void) {
 		printk("Device Nr. could not be allocated!\n");
 		return -1;
 	}
-	printk("read_write - Device Nr. Major: %d, Minor: %d was registered!\n", my_device_nr >> 20, my_device_nr && 0xfffff);
+	printk("read_write - Device Nr. Major: %d, Minor: %d was registered!\n", my_device_nr >> 20, my_device_nr & 0xfffff);
 
 	/* Create device class */
 	if((my_class = class_create(THIS_MODULE, DRIVER_CLASS)) == NULL) {
