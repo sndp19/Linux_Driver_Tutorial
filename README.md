@@ -53,6 +53,7 @@ In this repo you can find examples for:
 29. Completions for synchronisation
 30. Direct Memory Access (DMA) memcopy example
 31. Accessing files form a Linux Driver
+32. The mmap callback
 
 
 ## More Information
