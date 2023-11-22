@@ -55,6 +55,7 @@ In this repo you can find examples for:
 31. Accessing files form a Linux Driver
 32. The mmap callback
 33. Linked Lists
+34. Registering device numbers, read and write callback in character devices Take 2
 
 
 ## More Information
