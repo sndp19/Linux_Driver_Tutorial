@@ -58,6 +58,8 @@ In this repo you can find examples for:
 34. Registering device numbers, read and write callback in character devices Take 2
 35. Private Data in struct file
 36. I2C Device Driver without Device Tree 
+37. Sysfs Class
+38. Kernel Log levels
 
 
 ## More Information
